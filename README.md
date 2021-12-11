@@ -28,7 +28,7 @@ Multiplicação = 25
 
 Créditos: Glaucya Nascimento, 28 anos, estudante de ADS na UNIP, informatica nova matriz na ETEC e full stack developer Java na Generation:       
 e full stack developer Java na Generation:
-https://github.com/GlaucyaMariadoNascimento
+https://glaucyamariadonascimento.github.io/CalculadoraAritmerica/
 ```
 
 ## _Screenshot_
