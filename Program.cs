@@ -98,7 +98,7 @@ namespace CalculadoraAritmerica
 
 
                 Console.Write("\nCréditos: Glaucya Nascimento, 28 anos, estudante de ADS na UNIP, informatica nova matriz na ETEC e full stack developer Java na Generation:");
-                Console.Write("\nhttps://github.com/GlaucyaMariadoNascimento");
+                Console.Write("\nhttps://glaucyamariadonascimento.github.io/CalculadoraAritmerica/");
 
                 Console.ReadKey();
                 
